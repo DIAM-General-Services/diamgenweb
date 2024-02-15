@@ -9,7 +9,7 @@ export default function Hero() {
               <img
                 className="h-11 opacity-90"
                 src="DIAMLogoHorizontal.png"
-                alt="The image features a horizontal logo for 'DIAM General Services, LLC'. The logo is composed of capital letters spelling out 'DIAM' in a bold, sans-serif font. The letters are colored blue with a white outline. The 'D' is stylized to incorporate a amber octagonal shape, resembling a stop sign, with a white border and a white interior. Inside this octagon, there is a negative space in the shape of the letter 'D'. The design is clean, modern, and easily readable, with a simple color palette that emphasizes blue and white. The logo conveys a sense of professionalism and reliability, and the stylized 'D' adds a unique branding element that could be associated with the company's identity."
+                alt="A horizontal logo for 'DIAM General Services, LLC'. The logo is composed of capital letters spelling out 'DIAM' in a bold, sans-serif font. The letters are colored blue with a white outline. The 'D' is stylized to incorporate a amber octagonal shape, resembling a stop sign, with a white border and a white interior. Inside this octagon, there is a negative space in the shape of the letter 'D'. The design is clean, modern, and easily readable, with a simple color palette that emphasizes blue and white. The logo conveys a sense of professionalism and reliability, and the stylized 'D' adds a unique branding element that could be associated with the company's identity."
               />
               <h1 className="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
                 General services<br />for government<br />and business
@@ -19,7 +19,7 @@ export default function Hero() {
               </p>
               <div className="mt-10 flex items-center gap-x-6">
               <a
-                href="#"
+                href="tbd.pdf"
                 className="inline-flex items-center rounded-md bg-amber-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-amber-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-600"
               >
                 Download Capability Statement PDF <DocumentArrowDownIcon aria-hidden="true" className='ml-2 h-4 w-4' />
