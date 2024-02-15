@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="LogoHorizontal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1495.94 317">
+  <g>
+    <rect x="7.5" y="10.46" width="295" height="295" style="stroke: #fff; stroke-miterlimit: 10;"/>
+    <rect x="88" y="90.96" width="134" height="134" style="stroke: #fff; stroke-linecap: square; stroke-linejoin: bevel; stroke-width: 55px;"/>
+  </g>
+  <g>
+    <text transform="translate(310.06 187.34) scale(1.02 1)" style="font-family: Gabriella-Heavy, Gabriella; font-size: 275.09px; font-weight: 800;"><tspan x="0" y="0">DIAM</tspan></text>
+    <text transform="translate(327.55 304.02) scale(1.01 1)" style="font-family: SweetSansPro-Regular, &apos;Sweet Sans Pro&apos;; font-size: 136.09px;"><tspan x="0" y="0">Gene</tspan><tspan x="354.91" y="0" style="letter-spacing: -.02em;">r</tspan><tspan x="405.39" y="0">al Services</tspan></text>
+  </g>
+</svg>
