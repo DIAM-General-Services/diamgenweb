@@ -34,7 +34,7 @@ export default function Hero() {
           <div className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
             <img
               className="aspect-[3/2] w-full bg-gray-50 object-cover h-screen bottom-0 sm:h-full md:inset-0 md:aspect-auto"
-              src="pendrawing_hero.png"
+              src="pendrawing_hero@0.5x.jpg"
               alt="This is a highly detailed black-and-white pen drawing of a bustling cityscape filled with numerous figures and elements symbolic of business, technology, and innovation. The scene is teeming with a variety of people, depicted in business attire, engaged in different activities such as meetings, presentations, and casual discussions. Various modes of transportation like cars, an airplane, and a helicopter are illustrated. The background is a complex mesh of gears, clocks, charts, and buildings, representing a hive of industry and enterprise. The artwork is dense with information and visual metaphors, including elements like light bulbs and computer screens, indicating a vibrant environment of ideas and digital advancement. There is a central staircase leading towards a large eye, which could be interpreted as a metaphor for vision or leadership. The overall composition conveys a dynamic and interconnected world of professional human activity within a modern urban setting."
             />
           </div>
